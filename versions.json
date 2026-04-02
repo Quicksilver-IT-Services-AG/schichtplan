@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-02T08:42:47Z",
-  "commit": "1a51bc7",
+  "updated_at": "2026-04-02T11:43:13Z",
+  "commit": "cd180a8",
   "containers": {
     "myveloblitz": {
       "digest": "sha256:baf4747e9ccdc23ad20e40fffda3e958f2695ed537b7ed5004a9e09333ba0e21"
@@ -12,7 +12,7 @@
       "digest": "sha256:f467d1107a94f616489da7754c594d5a04db1db5c3638ea3863db41b01f32535"
     },
     "spv2api": {
-      "digest": "sha256:9f0de25b981402869cf3621a85a48c357d81ed5b8a006cf4f9bdb8a2a58ca316"
+      "digest": "sha256:8204f9762a4c01dfb099ea9da647a72dfad80386c6c2a1411bc62135f4004eec"
     },
     "spv2ui": {
       "digest": "sha256:70a8b214eca32a4f2368d9a1f0df40895fb0a34262c3bbe62904cfdd7fae11e5"
