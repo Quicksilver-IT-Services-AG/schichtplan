@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-19T08:40:55Z",
-  "commit": "ca0247f",
+  "updated_at": "2026-05-19T11:37:19Z",
+  "commit": "6726e07",
   "containers": {
     "labortracking": {
-      "digest": "sha256:c7471ed214fa4282551f9b5fb7f6a09cfec7a0d43400f23e913ccb197ac8af16"
+      "digest": "sha256:adc008249a566396fddd33be5d04bd51eb8b991fbbc53a5e35380af11394916c"
     },
     "myveloblitz": {
       "digest": "sha256:baf4747e9ccdc23ad20e40fffda3e958f2695ed537b7ed5004a9e09333ba0e21"
