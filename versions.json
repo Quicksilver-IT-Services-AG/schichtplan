@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T07:44:34Z",
-  "commit": "9554281",
+  "updated_at": "2026-10-01T08:27:00Z",
+  "commit": "ed2965d",
   "containers": {
     "labortracking": {
       "digest": "sha256:adc008249a566396fddd33be5d04bd51eb8b991fbbc53a5e35380af11394916c"
@@ -15,10 +15,10 @@
       "digest": "sha256:f467d1107a94f616489da7754c594d5a04db1db5c3638ea3863db41b01f32535"
     },
     "spv2api": {
-      "digest": "sha256:3cd040ffca8584d2dfb76e77d63a5ec801248509aa4633afaedb5744b7328497"
+      "digest": "sha256:c3a48f16f1d08e299c01693837fb6ae4d59ac8d0ac21b7feee73e5fbed9de3d3"
     },
     "spv2ui": {
-      "digest": "sha256:d7e36ef5e74f9940656a8869b056b29f9a0d38d5d618431c5a038afe9c1cd920"
+      "digest": "sha256:6c9468826c62bfb1ad96da6bf84f6d2cb511af92c076cff34837746343564499"
     },
     "vb-tarife": {
       "digest": "sha256:97390d254e121f6b18f6aa8fa251c360f686ee7ec9944c9390002f6270e9e46c"
