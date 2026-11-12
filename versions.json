@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T12:53:18Z",
-  "commit": "5de26c4",
+  "updated_at": "2026-11-12T15:42:15Z",
+  "commit": "e45fce8",
   "containers": {
     "labortracking": {
       "digest": "sha256:d8fb7f54a394899b8ee3274b75612e7ac29f44326873b1637fb8e107030ef1dc"
@@ -9,16 +9,13 @@
       "digest": "sha256:736fc36c353a76dbe312e221f9661accc3a5797c319f474591d5745f24f722a3"
     },
     "qsitstools": {
-      "digest": "sha256:2dc13195a60c60088db6af9394caec5458c82e1b15510c1a115ca503e4a09c42"
-    },
-    "spv1": {
-      "digest": "sha256:f467d1107a94f616489da7754c594d5a04db1db5c3638ea3863db41b01f32535"
+      "digest": "sha256:902a37f49dcf91357cc41cb31d7afa482c4c601b831e7eb2e7c9f12f47c647f0"
     },
     "spv2api": {
-      "digest": "sha256:d4948955a982cf47e6b5a2651793406bf9049e5d79fc8642d5c2ae1c16503697"
+      "digest": "sha256:da078092c4a2d73ce2f3e0419df011ccb45a458da368f13137feaa83e3a6a7d8"
     },
     "spv2ui": {
-      "digest": "sha256:f9fffd011cf016523c8c74fb258cc35d5ae3a9febfa79a682768f8ac52dc1145"
+      "digest": "sha256:f8fd0657f462a187a77fe923966a0e6263c1f78936fbf133bac000a19d9cded1"
     },
     "vb-tarife": {
       "digest": "sha256:a385ebde05764b66e1019fee77d6dc919f5b007cbd3af6a03a902c8495bce794"
